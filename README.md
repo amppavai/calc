@@ -1,0 +1,2 @@
+# calc
+Mobiiliohjelmoinnin harjoitustehtävä: laskin
